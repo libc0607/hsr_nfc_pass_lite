@@ -1,8 +1,10 @@
 # HSR Special Pass Lite (Chameleon Lite clone)  
 Yet another hardware version of [Chameleon Lite](https://github.com/RfidResearchGroup/ChameleonUltra)    
+Demo video: [Bilibili: 给 Chameleon Lite 做个崩铁的星轨专票皮肤](https://www.bilibili.com/video/BV1Na4y127yF)   
   
-  
-![微信截图_20240114183821](https://github.com/libc0607/hsr_nfc_pass_lite/assets/8705034/f4c7b6d1-df54-4522-a926-51eec8dec7c2)
+![微信截图_20240114183821](https://github.com/libc0607/hsr_nfc_pass_lite/assets/8705034/f4c7b6d1-df54-4522-a926-51eec8dec7c2)  
+
+![微信图片_20240114151503](https://github.com/libc0607/hsr_nfc_pass_lite/assets/8705034/fb797637-c9df-494d-a9c7-0f8af7e6f458)  
 
 ## Hardware 
 The schematic of this version is same to the original one, with only few footprint changes.  
